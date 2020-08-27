@@ -33,7 +33,7 @@
     * Near-unlimited scability
     * High realibility.  
 * **Private Cloud**
-=> Known as **"traditional on-premises"**, resource are deployed in your on-premises DataCenter (DC), using virtualization and resource management tools such as VMware, Hyper-V, OpenStack
+=> Known as **"traditional on-premises"**, resource are deployed in your on-premises DataCenter (DC), using virtualization and resource management tools such as **VMware, Hyper-V, OpenStack**
     * Full Control over infrastructure (responsible for management and patching)
     * Meet strict security, compliance or legal requirements
     * Accomodate legacy apps
@@ -41,7 +41,7 @@
     * Improve security
     * High scalability
 * **Hybrid Cloud**
-=> Combine Public and Private Clouds, allowing data and applications to be shared between them.
+=> Combine **Public** and **Private Clouds**, allowing data and applications to be shared between them.
     * Greates flexibility - can run apps both in public and continue to run legacy or sensitive apps on-premises
     * Use on-premises servers in order to meet security, compliance and strict regulations.
     * Continue to run apps on out-of-date hardware or OS, until redesign is possible for running in the cloud
