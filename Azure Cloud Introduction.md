@@ -27,16 +27,16 @@
 * **Security** - Secure, enforcing strict security policies at both physical and digital layers.
     * **Physical security is Azure Cloud's responsibility** - secure Data Centers, Cameras, Locks, specialized security personnel
     * **Digital Security** - Azure provides access to resources in the cloud only to authorized users
+* **Reliability** - Highly reliable, providing redundancy and fault tolerance to resources.
+    * Azure Cloud Infrastructure is built in order to accomodate disasters
+    * If one component fails a backup component will seamlessly take ownership to assure service availability
+    * Data in your Azure storage account is replicated to ensure durability and high availability.
 * **Speed**
 * **Global Scale**
 * **Productivity**
 * **Performance**
-* **Reliability**
-
-
-* Adaptability
-
-* Pay As You Go
+* **Adaptability**
+* **Pay As You Go**
 
 ## Types of Cloud Computing
 
