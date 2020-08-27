@@ -1,7 +1,7 @@
 # Azure-AZ-900-Notes
 
 <p align="center">
-<img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/logo.jpg" alt="My Images"></p>
+<img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/logo.png" alt="My Images"></p>
 
 ## Create A Free Microsoft Azure Account ☁️
 
