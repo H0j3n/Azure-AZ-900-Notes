@@ -79,7 +79,7 @@
     * Do no have to think how the underlying infrastructure is managed
     * Only need to think about how you will use the App
 
-## CapEX and OpEx
+## CapEX and OpEx 🏢
 
 <p align="center">
 <img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/capexopex.jpg" alt="My Images"></p>
@@ -96,6 +96,11 @@ CapEx and OpEx represnet two approaches to how you make an investiment which tim
     * Pay as you use
     * Same year tax deduction
 
+## Economies of Scale 💰
+
+* Ability to operate more efficienlt or at a lower-cost /unit when operating at a larger scale.
+* By using Azure Cloud Computing, you can achieve a lower variable cost than you can get on your own.
+
 # References
 
 [1] https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
@@ -105,3 +110,5 @@ CapEx and OpEx represnet two approaches to how you make an investiment which tim
 [3] https://medium.com/@karansinghreen/what-is-the-difference-between-public-private-and-hybrid-cloud-a41bba631479
 
 [4] https://medium.com/@Albihany/true-cloud-story-about-iaas-paas-saas-47cfea883271
+
+[5] https://www.bmc.com/blogs/capex-vs-opex/
