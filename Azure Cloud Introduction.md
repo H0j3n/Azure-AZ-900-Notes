@@ -79,6 +79,23 @@
     * Do no have to think how the underlying infrastructure is managed
     * Only need to think about how you will use the App
 
+## CapEX and OpEx
+
+<p align="center">
+<img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/capexopex.jpg" alt="My Images"></p>
+
+CapEx and OpEx represnet two approaches to how you make an investiment which time and money
+
+* **Capital Expenditure (CapEx)** - refers to the money a company spends towards fixed assets such as the purchase, maintenance, and improvement of buildings, vehicles, equipment or land.
+    * Spend money upfront
+    * Upfront cost for the company
+    * Value reduced over time (tax)
+
+* **Operational Expenditure (OpEx)** - funds that are support your day-to-day business.
+    * No upfront cost
+    * Pay as you use
+    * Same year tax deduction
+
 # References
 
 [1] https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
