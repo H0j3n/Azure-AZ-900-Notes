@@ -23,8 +23,8 @@
 
 ## Types of Cloud Computing
 
-![images](https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/cloud.png)
-
+      <center><img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/cloud.png"></center>
+      <center>Source : https://medium.com/@karansinghreen/what-is-the-difference-between-public-private-and-hybrid-cloud-a41bba631479 </center>
 * **Public Cloud**
 => Owned and operated by Microsoft and Computing Resources **(servers, storage)** are delivered through internet
     * Pay-as-you-go pricing
