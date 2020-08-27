@@ -9,16 +9,33 @@
 
 ## Top benefits of Cloud Computing
 
-* Cost
-* Speed
-* Global Scale
-* Productivity
-* Performance
-* Reliability
-* Security
-* Elasticity
+* **Cost Effective** - offers a pay as you go prricing model (consumption-based pricing model)
+    * No upfront costs
+    * Pay extra for resources only when needed (elasticity)
+    * No infrastructure to purchase and manage
+* **Scalability (Up or Down)** = Highly scalable and can acommodate any business growth
+    * Can adapat to your business by scaling either vertically or horizontally
+* **Elasticity** - Highly elastic and can adapt to demand changes, adding or removing resources
+* **Current or Always Up to Date** - Always up to date, running on most current and recommend hardware and software versions.
+    * Microsoft Azure responsible for Hardware configration
+    * Microsoft Azure responsible for Software Patching
+    * Microsoft Azure responsible for Software and Hardware Upgrades
+    * Microsoft Azure responsible for Replacing faulty equipment
+* **Global** - With Azure Cloud you can go glocal in minutes
+    * Easily deploy your application in multiple regions around the world with just a few clicks
+    * You can provide lower latency and better experience for your customers at minimal cost
+* **Security** - Secure, enforcing strict security policies at both physical and digital layers.
+    * **Physical security is Azure Cloud's responsibility** - secure Data Centers, Cameras, Locks, specialized security personnel
+    * **Digital Security** - Azure provides access to resources in the cloud only to authorized users
+* **Speed**
+* **Global Scale**
+* **Productivity**
+* **Performance**
+* **Reliability**
+
+
 * Adaptability
-* Scalability (Up or Down)
+
 * Pay As You Go
 
 ## Types of Cloud Computing
@@ -61,7 +78,6 @@
     * Do not have to think about how the service is maintained
     * Do no have to think how the underlying infrastructure is managed
     * Only need to think about how you will use the App
-* **Serverless**
 
 # References
 
