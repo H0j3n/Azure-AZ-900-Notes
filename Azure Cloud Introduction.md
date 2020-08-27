@@ -26,8 +26,9 @@
 
 <figure>
 <p align="center">
+<p align="center">
 <img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/cloud.png" alt="My Images"></p>
-<p align="center"><figcaption>Source: Medium @karansinghreen</figcaption></p>
+<figcaption>Source: Medium @karansinghreen</figcaption></p>
 </figure>
 
 * **Public Cloud**
