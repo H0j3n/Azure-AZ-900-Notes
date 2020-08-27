@@ -1,5 +1,8 @@
 # Azure-AZ-900-Notes
 
+<p align="center">
+<img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/logo.jpg" alt="My Images"></p>
+
 ## Create A Free Microsoft Azure Account ☁️
 
 Go to this link -> [Create Account](https://azure.microsoft.com/en-us/free/)
