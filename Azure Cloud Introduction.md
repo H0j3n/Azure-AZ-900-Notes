@@ -45,11 +45,12 @@
     * Greates flexibility - can run apps both in public and continue to run legacy or sensitive apps on-premises
     * Use on-premises servers in order to meet security, compliance and strict regulations.
     * Continue to run apps on out-of-date hardware or OS, until redesign is possible for running in the cloud
+
 ## Type of Cloud Services 
 
-* IaaS
-* PaaS
-* SaaS
+* IaaS (Infrastructure as a Service)
+* PaaS (Platform as a Service)
+* SaaS (Software as a Service)
 * Serverless
 
 
