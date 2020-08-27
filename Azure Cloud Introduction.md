@@ -16,10 +16,19 @@
 * Performance
 * Reliability
 * Security
+* Elasticity
+* Adaptability
+* Scalability (Up or Down)
+* Pay As You Go
 
 ## Types of Cloud Computing
 
 * Public Cloud
+=> Owned and operated by Microsoft and Computing Resources (servers, storage) are delivered through internet
+    * Pay-as-you-go pricing
+    * No hardware maintenance or updates
+    * Elastic, Agile, Highly Scalable and Adaptable
+    * Start immediately and go global in minutes
 * Private Cloud
 * Hybrid Cloud
 
