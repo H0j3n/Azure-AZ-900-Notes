@@ -101,6 +101,20 @@ CapEx and OpEx represnet two approaches to how you make an investiment which tim
 * Ability to operate more efficienlt or at a lower-cost /unit when operating at a larger scale.
 * By using Azure Cloud Computing, you can achieve a lower variable cost than you can get on your own.
 
+## Azure Global Infrastructure 🗺️
+
+<p align="center">
+<img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/map.png" alt="My Images"></p>
+
+* **Regions** - A set of datacenters deployed within a latency-defined perimeter and connected through a dedicated regional low-latency network.
+    * Each region is part of single geography and specific service availability, compliance and data residency apply.
+* **Availability Zones** - Physically separate datacenters within an Azure region with independent power, network and cooling.
+    * Its a good idea to user Azure Avaiability Zones when deploying highly available or mission-critical apps.
+* **Geographies** - A discrete market, typically containing two or more regions that preserves data residency and compliance boudaries.
+* **Region Pairs** - Providing business continuity and disaster recovery (in the cloud)
+    * Helpful when an entire Azure Region goes down
+
+## 
 # References
 
 [1] https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
