@@ -24,11 +24,8 @@
 ## Types of Cloud Computing
 
 <p align="center">
-<figure>
-<p align="center">
 <img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/cloud.png" alt="My Images"></p>
-<figcaption>Source: Medium @karansinghreen</figcaption>
-</figure></p>
+
 
 * **Public Cloud**
 => Owned and operated by Microsoft and Computing Resources **(servers, storage)** are delivered through internet
@@ -55,12 +52,26 @@
 
 ## Type of Cloud Services 
 
-* IaaS (Infrastructure as a Service)
-* PaaS (Platform as a Service)
-* SaaS (Software as a Service)
-* Serverless
+<p align="center">
+<img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/services.png" alt="My Images"></p>
+
+* **IaaS (Infrastructure as a Service)**
+=> Rent IT Infrastructure - servers and Virtual Machines (VMs), storage, networks, OS from Azure Cloud
+    * Provides the highest level of flexibility and management control over the infrastucture
+* **PaaS (Platform as a Service)**
+=> Offers an on-demand environment for developing, testing, delivering and managing software applications.
+    * Mostly used by developers
+    * Quickly create a web or mobile apps without taking care of the underlying infrastructure of servers, storage, network, DBs
+* ****SaaS (Software as a Service)**
+=> A method for delivering software applications over the Internet, on demand and typically on a subscription basis (monthly/yearly)
+    * Do not have to think about how the service is maintained
+    * Do no have to think how the underlying infrastructure is managed
+    * Only need to think about how you will use the App
+* **Serverless**
 
 # References
 
 [1] https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
 [2] https://azure.microsoft.com/en-us/overview/what-are-private-public-hybrid-clouds/
+[3] https://medium.com/@karansinghreen/what-is-the-difference-between-public-private-and-hybrid-cloud-a41bba631479
+[4] https://medium.com/@Albihany/true-cloud-story-about-iaas-paas-saas-47cfea883271
