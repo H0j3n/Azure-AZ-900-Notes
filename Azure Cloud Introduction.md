@@ -23,13 +23,12 @@
 
 ## Types of Cloud Computing
 
-
+<p align="center">
 <figure>
 <p align="center">
-<p align="center">
 <img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/cloud.png" alt="My Images"></p>
-<figcaption>Source: Medium @karansinghreen</figcaption></p>
-</figure>
+<figcaption>Source: Medium @karansinghreen</figcaption>
+</figure></p>
 
 * **Public Cloud**
 => Owned and operated by Microsoft and Computing Resources **(servers, storage)** are delivered through internet
