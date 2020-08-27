@@ -23,8 +23,7 @@
 
 ## Types of Cloud Computing
 
-
-![images](https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/cloud.png#center)
+<img align="center" src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/cloud.png#center" alt="My Images">
 
 * **Public Cloud**
 => Owned and operated by Microsoft and Computing Resources **(servers, storage)** are delivered through internet
@@ -56,13 +55,8 @@
 * SaaS (Software as a Service)
 * Serverless
 
-
-img[src*='#center']{
-    display: block;
-    margin: auto;
-}
-
 # References
 
 [1] https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
 [2] https://azure.microsoft.com/en-us/overview/what-are-private-public-hybrid-clouds/
+[3] https://medium.com/@karansinghreen/what-is-the-difference-between-public-private-and-hybrid-cloud-a41bba631479
