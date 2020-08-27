@@ -1,13 +1,13 @@
 # Azure Cloud Introduction
 
 
-## Cloud Computing
+## Cloud Computing ☁️
 
 * **Cloud computing** is the delivery of computing services which includes servers, storage, databases, networking, software, analytics and intelligence over the Internet **"cloud"** to offer faster innovation, flexible resources and economies of scale (Microsoft)
 
 * **Cloud computing** really represents renting resources (CPU, RAM, storage) from a cloud provider (Azure) and only "pay as you go"
 
-## Top benefits of Cloud Computing
+## Top benefits of Cloud Computing 💚
 
 * **Cost Effective** - offers a pay as you go prricing model (consumption-based pricing model)
     * No upfront costs
@@ -38,7 +38,7 @@
 * **Adaptability**
 * **Pay As You Go**
 
-## Types of Cloud Computing
+## Types of Cloud Computing ☁️
 
 <p align="center">
 <img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/cloud.png" alt="My Images"></p>
@@ -64,7 +64,7 @@
     * Use on-premises servers in order to meet security, compliance and strict regulations.
     * Continue to run apps on out-of-date hardware or OS, until redesign is possible for running in the cloud
 
-## Type of Cloud Services 
+## Type of Cloud Services 🛠️
 
 <p align="center">
 <img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/services.png" alt="My Images"></p>
