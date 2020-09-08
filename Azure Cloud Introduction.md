@@ -114,7 +114,22 @@ CapEx and OpEx represnet two approaches to how you make an investiment which tim
 * **Region Pairs** - Providing business continuity and disaster recovery (in the cloud)
     * Helpful when an entire Azure Region goes down
 
-## 
+## Azure Management Interfaces 🖥️
+
+Azure provides multiple options to interact with Azure Cloud Platform:
+
+* **Azure Portal** - Graphical User Interface for accessing a wide range of Azure Cloud Services and manage compute, storage and cloud resources. [Link to Portal]("https://portal.azure.com")
+
+* **Azure Command Line Interface (CLI) & Azure PowerShell Module** - Cross-platform options (Windows, Mac & Linux) thath enable you to connect to your Azure Cloud account and manage reources from CLI. This could optimise and optimize your work trough scripts.
+
+* **Azure Cloud Shell** - Offers browser-accessible, pre-configured shell experience for managing Azure resources wihtout installing, versioning and maintaining a machine yourself. It is your Microsoft-managed admin machine in Azure. Also [Link to Access]("https://shell.azure.com")
+
+* **Azure SDKs** - Collections of libraries for programming languages. Which can help you build applications that manage and interact with Azure services and an interesting option for Developers.
+
+* **Azure Mobile App** - Available in Apple and Google Play Stores. Can Monitor the health and status of your Azure resources, Quickly diagnose and fix issue and can run commands to manage your Azure resources.
+
+
+
 # References
 
 [1] https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
