@@ -64,6 +64,54 @@ There are few options that Azure provides to achieve High Availability, Scalabil
 **Availability Sets**
 
 * An availability set is a logical grouping of two or more VMs within a DataCenter that allows Azure to understand how your App is built to provide redundancy and availability.
+* With availability sets, Azure will split your fleet of VMs on differect racks of servers which called fault domains to prevent app outage in case of unplanned maintenance events.
+* Update domains can prevent application outage in case of VM reboot or planned maintenance windows in Azure
+
+**VMs Scale Sets (VMSS)**
+
+* Azure virtual machine scale sets let you create and manage a group of identical load balanced VMs.
+* The number of VM instances can automatically increase or decrease in response to traffic demand or a defined schedule.
+* In order to achieve high availability, a minimum of 2 VMs should be placed in VMSS
+
+**Azure Batch**
+
+* Azure Batch enables large-scale job scheduling and compute management with the ability to scale to tens, hundres or thousands of VMs.
+* Intiate a pool of VMs, Configure them as needed, Run jobs or Scale down the pool.
+
+## Azure Network and Security Groups (NSGs)
+
+* Azure Network Security Groups act as a virtual firewall for your VMs to control inbound (to VM) and outbound traffic (from VM)
+* NSGs enforce security at the subnet or NIC card level and different VMs can have different NSGs applied
+* In a NSG you add rules that control inbound traffic to instances and separate rules that control outbound traffic.
+
+**Inbound & Oubound Security Rules**
+
+* Allow and Dissalow inbound and outbound. You can specify the rules.
+
+**Application Security Groups (ASGs)**
+
+* ASGs allow you to group virtual machines and define network security policies based on those groups.
+* In an ASG you add rules that control inbound traffic to instances and separate rules that control outbound traffic.
+* Logic is the same!
+
+## Azure Load Balancer
+
+<p align="center">
+<img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/load-balancer.svg" alt="My Images"></p>
+
+* Load balancing means **equally distributin load (incoming traffic) to a group of servers (backend pool)**
+* Single point of contact of its clients and it distributes incoming traffic to backend pool of VMs.
+
+**Public Load Balancer**
+
+* Can provide outbound connections for VMs inside your virtual network. These connections are accomplished by translating their private IP addresses to public IP addresses. PLB are used to load balance internet traffic to your VMs.
+
+**Internal Load Balancer**
+
+* Used where private IPs are needed at the frontend only, internal load balancers are used to load balance traffic inside a virtual network. A load balancer frontend can be acessed from an on-premises network in a hybrid scenario.
+
+
+
 # References
 
 1. https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending
@@ -75,3 +123,5 @@ There are few options that Azure provides to achieve High Availability, Scalabil
 4. https://docs.microsoft.com/en-us/azure/virtual-machines/sizes
 
 5. https://docs.microsoft.com/en-us/azure/virtual-machines/disks-types
+
+6. https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview#:~:text=A%20public%20load%20balancer%20can,internet%20traffic%20to%20your%20VMs.
