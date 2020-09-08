@@ -97,7 +97,7 @@ There are few options that Azure provides to achieve High Availability, Scalabil
 ## Azure Load Balancer
 
 <p align="center">
-<img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/load-balancer.svg" alt="My Images"></p>
+<img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/load-balancer.png" alt="My Images"></p>
 
 * Load balancing means **equally distributin load (incoming traffic) to a group of servers (backend pool)**
 * Single point of contact of its clients and it distributes incoming traffic to backend pool of VMs.
