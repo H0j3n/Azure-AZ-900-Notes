@@ -38,14 +38,28 @@
 
 * Platform-as-a-service (PaaS)
 * With Azure App Service you can build web apps in the programming language of your choice without managing infrastructure.
-
+* Pricing based on App Service Plan
+* With App Service, apps run in an App Service plan. When create an App Service plan, a set of compute resources is created for that plan in that region.
+* Each App Service plan defines -> Region, Number of VM instances, size of VMs and pricing tier
+* The pricing tier of an App Service plan determines what App Service features you get and how much you pay for the plan.
+* Three pricing tiers:
+    - **Shared Computer: Free and Shared** - The app is run on the same VM as other apps and scaling is not an option.
+    - **Dedicated Compute: Basic, Standard, Premium** - Apps are run on dedicated VMs and apps in the same App Service plan share the same compute resource.
+    - **Isolated: Dedicated VMs run in dedicated vNETs**
+* Types of Web Apps:
+    - **Web Apps** - Build & Deploy web apps faster at scale.
+    - **API Apps** - Easily build and consume APIs//
+    - **Web App for Containers** - Deploy and run containerized web apps.
+    
 **Azure Functions : Serverless**
 
 * Serverless computing enables developers to build applications faster by eliminating the need for them to manage infrastructure.
 * With serverless applications Azure automatically provisions, scales and manages the infrastructure required to run the code.
 * Build app -> execute (create index.html and run it in a cloud ready environment)
-
-
+* Main pillars:
+    - **Abstration of Servers**
+    - **Even-driven**
+    - **Pay by The Run Time**
 ## Comparing Virtual Machine vs Containers
 
 <p align="center">
@@ -58,3 +72,5 @@
 2. https://azure.microsoft.com/en-in/overview/what-is-a-container/#:~:text=Containers%20explained&text=A%20standard%20package%20of%20software,deploy%20applications%20seamlessly%20across%20environments.
 
 3. https://azure.microsoft.com/en-us/services/container-instances/
+
+4. https://azure.microsoft.com/en-us/services/app-service/
