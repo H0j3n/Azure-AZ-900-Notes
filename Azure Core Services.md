@@ -110,6 +110,19 @@ There are few options that Azure provides to achieve High Availability, Scalabil
 
 * Used where private IPs are needed at the frontend only, internal load balancers are used to load balance traffic inside a virtual network. A load balancer frontend can be acessed from an on-premises network in a hybrid scenario.
 
+## Azure Traffic Manager
+
+Is a DNS-based traffic load balancer.
+
+**Benefits**
+
+* Distribute traffic optimally to services accross global Azure regions
+* Provide high availability
+* Provide responsiveness (latency)
+* Hybrid cloud delpoyments
+* Improve application performance
+
+**Low Latency & Application Availability**
 
 
 # References
@@ -125,3 +138,5 @@ There are few options that Azure provides to achieve High Availability, Scalabil
 5. https://docs.microsoft.com/en-us/azure/virtual-machines/disks-types
 
 6. https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview#:~:text=A%20public%20load%20balancer%20can,internet%20traffic%20to%20your%20VMs.
+
+7. https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview
