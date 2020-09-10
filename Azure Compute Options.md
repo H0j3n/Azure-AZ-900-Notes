@@ -57,9 +57,28 @@
 * With serverless applications Azure automatically provisions, scales and manages the infrastructure required to run the code.
 * Build app -> execute (create index.html and run it in a cloud ready environment)
 * Main pillars:
-    - **Abstration of Servers**
-    - **Even-driven**
-    - **Pay by The Run Time**
+    - **Abstration of Servers** - With serverless computing you simply upload your code to Azure which is run assuring HA as well.
+    - **Event-driven** - App code is run based on triggers orevents -> Run a function when it receives an HTTP request.
+    - **Pay by The Run Time** - You pay only for the duration your code runs and times it was executed.
+
+<p align="center">
+<img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/azfunction.gif" alt="My Images"></p>
+
+* With Azure Functions you can run small pieces of code ("functions") without worrying about application infrastructure.
+* The function is triggered by an event -> Respond to data changes, Run a task on schedule or Run a function as response to HTTP request.
+
+<p align="center">
+<img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/azurelogicapp.png" alt="My Images"></p>
+
+* Azure Logic Apps are similar to Azure Functions, just that you don't have to write code.
+* With Azure Logic Apps you can -> schedule, automate and orchestrate tasks and business processes and workflows when you need to integrate apps, data, systems and services across enterprises or organizations.
+* **Workflow** - Visualize, design, build, automate and deploy business processes as series of steps.
+* Azure Functions executes code, while Azure Logic Apps executer workflows, using prebuilt logic blocks.
+* You can create Logic Apps workflows using a visual designer on Azure Portal or Visual Studio.
+
+
+
+
 ## Comparing Virtual Machine vs Containers
 
 <p align="center">
