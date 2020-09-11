@@ -5,7 +5,7 @@
 
 * Azure Storage is Microsoft's cloud storage solution for modern data storage scenarios.
 
-**Data Serviecs**
+## Data Serviecs
 
 * **Azure Blobs (Unstructured Data)** - Scalable Object Store
     - Azure Blob Storage is Microsoft's object storage solution for the cloud, optimized to store massive amounts of unstructure data (text or binary data)
@@ -58,11 +58,26 @@
     - A messaging store for reliable messaging between application components.
     - When app components are decoupled, they can scale independently,
     - Queue Storage provides asynchronous message queueing for communication between application components.
+    - **Queue** - container of messages
+    - **Message** - Data in any format
+    - Independent queues, separate business purpose.
 * **Azure Tables** - NoSQL Structured Data 
     - Service that stores strucued NoSQL data in the cloud.
     - Azure Table storage stores large amounts of structured data, known as NoSQL datastore. 
     - Ideal for storing structured, non-relational data.
     - **Azure managed service** - tables will scale as demand increases.
+    - Highly scalabale and very cheap Azure Storage service, NoSQL database for everyday need and serverless apps.
+    - Stores structured NoSQL data in the cloud, providing a key/attribute store with a schemaless design.
+    - Key/Attribute -> Tags (name/value)
+    - **Schemaless** - database doesn't have fixed data structure.
+    - **Storage Account**
+        * Multi-purpose storage service
+        * Process up to 20,000 rows/s
+    - **Table**
+        * Collection of rows (entity)
+        * Process up to 2000 rows/s
+    - **Entity**
+        * Collection of properties (columns and values)
 
 ## Azure Data Lake Storage Gen2
 
