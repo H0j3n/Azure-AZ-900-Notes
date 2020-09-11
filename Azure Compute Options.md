@@ -20,14 +20,14 @@
 * Like docker container.
 
 <p align="center">
-<img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/aks.png" alt="My Images"></p>
+<img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/aci.png" alt="My Images"></p>
 
 * You can easily run containers on Azure without managing servers -> **Azure Container Instances (ACI)**
 * ACI (Azure PaaS offering) allows uploading your containers to Azure and running them immediately.
 * No virtual machines to manage, no additional configration needed.
 
 <p align="center">
-<img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/aci.png" alt="My Images"></p>
+<img src="https://github.com/H0j3n/Azure-AZ-900-Notes/blob/master/img/aks.png" alt="My Images"></p>
 
 
 * Azure Kubernetes Service (AKS) makes deploying and managing containerized applications easy.

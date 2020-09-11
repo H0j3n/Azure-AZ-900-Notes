@@ -1,8 +1,4 @@
-# Azure Core Services
-
-
-## Azure Portal Navigation Overview
-
+# Azure Core Services - Virtual Machines
 
 ## Billing Alarm ⏰
 
